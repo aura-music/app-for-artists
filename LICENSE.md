@@ -2,6 +2,22 @@ Aura Music © 2025 is licensed under CC BY-NC-ND 4.0
 
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
+NOTICE
+----------------------------------------------------------------------
+
+This license requires that reusers give credit to the creator. 
+It allows reusers to copy and distribute the material in any medium or 
+format in unadapted form and for noncommercial purposes only.
+
+- BY: Credit must be given
+- NC: Only noncommercial use of your work is permitted
+- ND: No derivatives or adaptations are permitted
+
+https://creativecommons.org/licenses/by-nc-nd/4.0
+
+LICENSE
+----------------------------------------------------------------------
+
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
 Creative Commons public licenses does not create a lawyer-client or
